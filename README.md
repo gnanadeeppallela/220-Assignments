@@ -1,5 +1,5 @@
 # System Software Assignments
-Developed the Web Application from loading the data, processing the data, and displaying the results on the web page.
+Developed the Web Applications for loading the data, processing the data, and displaying the results on the web page.
 
 1. Assignment 1: 
 Algorithm: Support Vector Machines (SVM),
