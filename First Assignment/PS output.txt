@@ -1,0 +1,22 @@
+*
+optimization finished, #iter = 4
+obj = -0.034802, rho = -2.130575
+nSV = 3, nBSV = 0
+*
+optimization finished, #iter = 49
+obj = -0.010470, rho = -2.572210
+nSV = 3, nBSV = 0
+.........................................
+....................*....................
+...........................*.............
+...........*.*
+optimization finished, #iter = 28304
+obj = -43.460224, rho = -5.147920
+nSV = 46, nBSV = 41
+Total nSV = 50
+[LibSVM]CPU Utilization:
+27.8
+Memory Utilization for this process:
+0.6279804151131945
+Running time:
+0.2868876939877762
