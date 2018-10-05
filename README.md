@@ -1,1 +1,0 @@
-# 295B-project-images
